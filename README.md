@@ -1,0 +1,2 @@
+# Snake
+This project is a classic Snake game built using Python and the pygame library. The game involves controlling a snake that moves around the screen to eat food items while avoiding collisions with the screen edges or itself. Each time the snake eats food, it grows longer, making the game progressively more challenging.
